@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Serdal</h1>
+<h3 align="center">Junior .Net Developer</h3>
+<img align="right" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" width="400" style=flat" alt="coding" /> </p>
+
 # 💫 About Me:
 - 🔭 I’m currently working on -<br>- 🌱 I’m currently learning C#, ASP.NET-Core, SQL Server <br>- 👯 I’m looking to collaborate on -<br>- 🤔 I’m looking for help with anyone<br>- 💬 Ask me about anything.<br>- 📫 How to reach me: sserdal58@gmail.com<br>- 😄 Pronouns: Hard worker<br>- ⚡ Fun fact: -
 
